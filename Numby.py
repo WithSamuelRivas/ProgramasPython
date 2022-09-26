@@ -1,7 +1,0 @@
-print("Ingrese el primer número")
-Nota1=int(input())
-print("Ingrese el segundo número")
-Nota2=int(input())
-print("La suma de ambas notas es: ", Nota1+Nota2)
-print("La resta de ambas notas es: ", Nota1-Nota2)
-print("La multiplicación de ambas notas es: ", Nota1*Nota2)
